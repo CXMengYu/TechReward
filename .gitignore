@@ -1,0 +1,15 @@
+# Visual Studio 编译文件
+.vs/
+bin/
+obj/
+*.suo
+*.user
+
+# 编译生成的 DLL（仅保留 Release 里的）
+*.dll
+*.pdb
+!Release/*.dll
+
+# 系统临时文件
+Thumbs.db
+.DS_Store
