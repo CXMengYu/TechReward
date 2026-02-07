@@ -1,3 +1,4 @@
+
 [奖励设置]
 ## 触发奖励的科技ID（戴森球计划=1001，电磁学=1002）
 TargetTechId = 1001
@@ -7,3 +8,6 @@ RewardItemId = 2207
 
 ## 奖励物品数量
 ItemCount = 5
+
+# TechReward
+戴森球计划科技解锁奖励模组
